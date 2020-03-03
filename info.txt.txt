@@ -1,10 +1,8 @@
 cxzjkzKSDkfhsajhndf
 lnckzjjLKJlkxz
-<<<<<<< HEAD
 dsjbjkcshdhskjhjksd
 m,dsnfsanfnknasdsal
 fdsnfndsllkds
-=======
-onkar edited by some 
-gasghdfahfsijskjslk,s
->>>>>>> f7314c917308ff2beb911257938b471927da90c7
+
+DevNetOps-03March2020
+Git_Cheat_Sheet
